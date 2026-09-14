@@ -1,3 +1,8 @@
+---
+title: "Hosting Wordpress on a VPS"
+description: AI generated and human validated guide on how to set up wordpress on a VPS.
+---
+
 # WordPress + MariaDB + Traefik on an Existing Docker VPS
 
 This guide shows how to deploy a new, independent WordPress site on a VPS that already has **Docker + Traefik** running.
